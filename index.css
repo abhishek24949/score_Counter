@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    background-color: darkcyan;
+    height: 60vh;
+}
+
+.container2 {
+    display: flex;
+    justify-content: space-around;
+    background-color: darkcyan;
+    background-size: cover;
+    height: 40vh;
+}
+#btn {
+    height: 30px;
+    margin : 10px;
+}
